@@ -33,6 +33,14 @@ Headsup: Also train the model with enough `neutral` pictures of your hand doing 
 Then simply run the program and it will output a `model.h5` file. 
 Now also update the datasets in the `posedetector.py`.
 
+## Credits
+- [@NeonChicken](https://github.com/NeonChicken)
+  Research, model training, demonstration material
+- [@Chyvex](https://github.com/Chyvex)
+  Research and model training
+- [@Ivolutio](https://github.com/Ivolutio)
+  Research, programming
+
 ## Dev Notes
 ### HandLandmarks from MediaPipe
 ```python
